@@ -1,3 +1,5 @@
+import '../styles/icons.css';
+
 // import App from 'next/app'
 
 function MyApp({ Component, pageProps }) {
